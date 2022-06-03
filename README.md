@@ -4,6 +4,7 @@
   <img src="logo.png" width="450" height="auto"/>
 </div>
 
+
 Ether-SWR is a React hook that fetches Ethereum data, streamlines the chores to keep the internal state of Decentralized App (DApp) and optimize the RPC calls to an Ethereum node.
 It does so with a declarative approach via an opinionated wrapper of [SWR](https://swr.vercel.app/).
 
